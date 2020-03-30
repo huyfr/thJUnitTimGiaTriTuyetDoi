@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ddf209a-b18d-4fe6-a35e-44fda02d9653" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zpc53cFBwpQStmm8poimeHE0lB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AbsoluteNumberCalculatorTest.testFindAbsolut2">
+    <configuration name="AbsoluteNumberCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thJUnitTimGiaTriTuyetDoi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AbsoluteNumberCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteNumberCalculatorTest.testFindAbsolut2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thJUnitTimGiaTriTuyetDoi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AbsoluteNumberCalculatorTest" />
+      <option name="METHOD_NAME" value="testFindAbsolut2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteNumberCalculatorTest.testFindAbsolute1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thJUnitTimGiaTriTuyetDoi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AbsoluteNumberCalculatorTest" />
+      <option name="METHOD_NAME" value="testFindAbsolute1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteNumberCalculatorTest.testFindAbsolute2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thJUnitTimGiaTriTuyetDoi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AbsoluteNumberCalculatorTest" />
+      <option name="METHOD_NAME" value="testFindAbsolute2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteNumberCalculatorTest.testFindAbsoluteNegative1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thJUnitTimGiaTriTuyetDoi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AbsoluteNumberCalculatorTest" />
+      <option name="METHOD_NAME" value="testFindAbsoluteNegative1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AbsoluteNumberCalculatorTest.testFindAbsolut2" />
+        <item itemvalue="JUnit.AbsoluteNumberCalculatorTest.testFindAbsoluteNegative1" />
+        <item itemvalue="JUnit.AbsoluteNumberCalculatorTest.testFindAbsolute2" />
+        <item itemvalue="JUnit.AbsoluteNumberCalculatorTest" />
+        <item itemvalue="JUnit.AbsoluteNumberCalculatorTest.testFindAbsolute1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ddf209a-b18d-4fe6-a35e-44fda02d9653" name="Default Changelist" comment="" />
+      <created>1585539289931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585539289931</updated>
+      <workItem from="1585539293846" duration="1158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="91" y="91" width="1738" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585540228079">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="91" y="91" width="1738" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540228079" />
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom" timestamp="1585540460753">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540460753" />
+    <state width="1864" height="259" key="GridCell.Tab.0.center" timestamp="1585540460753">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540460753" />
+    <state width="1864" height="259" key="GridCell.Tab.0.left" timestamp="1585540460753">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540460753" />
+    <state width="1864" height="259" key="GridCell.Tab.0.right" timestamp="1585540460753">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540460753" />
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom" timestamp="1585540184844">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540184844" />
+    <state width="1864" height="321" key="GridCell.Tab.1.center" timestamp="1585540184844">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540184844" />
+    <state width="1864" height="321" key="GridCell.Tab.1.left" timestamp="1585540184844">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540184844" />
+    <state width="1864" height="321" key="GridCell.Tab.1.right" timestamp="1585540184844">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585540184844" />
+    <state x="609" y="397" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585539691956">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="609" y="397" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585539691956" />
+    <state x="714" y="165" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585539711107">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="714" y="165" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585539711107" />
+    <state x="226" y="42" key="new project wizard" timestamp="1585539305169">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="226" y="42" key="new project wizard/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1585539305169" />
+  </component>
+</project>
